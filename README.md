@@ -2,3 +2,7 @@
 Hello World Test Repository
 
 Next I am creating a Branch Now
+
+Now I am making changes inside the Branch.
+
+Next I am going to commit these changes
